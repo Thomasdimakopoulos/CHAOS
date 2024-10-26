@@ -22,3 +22,5 @@ build/
 
 # IDE
 .idea
+config.bat
+node_modules
